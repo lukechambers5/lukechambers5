@@ -1,17 +1,15 @@
 <!-- GitHub Profile README Template -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">[Your Tagline: e.g., Passionate Developer | Open Source Enthusiast | Lifelong Learner]</h3>
+<h1 align="center">Hi, I'm Luke Chambers</h1>
+<h3 align="center">Software Engineer</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Your Current Project/Job]**
-- 🌱 I’m currently learning **[Tech Stack or Topic]**
-- 👯 I’m looking to collaborate on **[Project/Area of Interest]**
-- 💬 Ask me about **[Technologies, Tools, or Concepts]**
-- 📫 How to reach me: **[Your Email or Contact Link]**
-- ⚡ Fun fact: **[Something interesting or quirky about you]**
+- I’m currently learning at **Texas A&M University**
+- I’m currently working at **Blitz Medical Billing**
+- I’m currently learning **Full-Stack Development**
+- How to reach me: **lukechambers0217@gmail.com**
 
 ---
 
@@ -20,7 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <!-- Add more icons as needed -->
 </p>
 
 ---
