@@ -1,16 +1,16 @@
 <!-- GitHub Profile README Template -->
 
 <h1 align="center">Hi, I'm Luke Chambers</h1>
-<h3 align="center">Software Engineer | CS @ Texas A&M</h3>
+<h3 align="center">Software Engineer | Computer Science Student @ Texas A&M</h3>
 
 ---
 
 ### About Me
-- I’m currently studying Computer Science at **Texas A&M University (Class of 2027)**
-- Interning at **Blitz Medical Billing** — building automation and data tools
-- Building **eBrick**, a full-stack LEGO marketplace (Next.js, Supabase, AWS, Stripe)
-- Learning **cloud automation**, **data engineering**, and **full-stack web development**
-- Reach me at: **lukechambers0217@gmail.com** | 📞 **469-430-4377**
+- Currently pursuing a Bachelor of Science in Computer Science at **Texas A&M University (Class of 2027)**
+- Intern at **Blitz Medical Billing**, developing automation solutions and data tools
+- Creator of **eBrick**, a comprehensive full-stack LEGO marketplace built with Next.js, Supabase, AWS, and Stripe
+- Actively expanding expertise in **cloud automation**, **data engineering**, and **full-stack web development**
+- Contact: **lukechambers0217@gmail.com** | 📞 **469-430-4377**
 
 ---
 
@@ -32,26 +32,25 @@
 ---
 
 ### Top Skills & Interests
-- Full-Stack Web Apps (Next.js, Supabase, AWS Lambda, Stripe)
-- Backend Automation (Python, Power Automate, SFTP, Office Scripts)
-- Data Visualization & ETL (Tableau, Pandas, SQLAlchemy)
-- Passionate about solving real-world problems with clean, efficient code
+- Development of full-stack web applications using Next.js, Supabase, AWS Lambda, and Stripe
+- Backend automation utilizing Python, Power Automate, SFTP, and Office Scripts
+- Data visualization and ETL workflows with Tableau, Pandas, and SQL
+- Committed to addressing real-world challenges through clean, efficient, and maintainable code
 
 ---
 
 ### 📂 Featured Projects
 - **eBrick**  
-  Full-stack LEGO marketplace using Next.js, Supabase, Stripe, and AWS Lambda  
+   A full-stack LEGO marketplace built with Next.js, leveraging Supabase’s PostgreSQL backend, Stripe for payments, AWS Lambda for serverless functions, and deployed via Vercel.
   🔗 [GitHub Repo](https://github.com/lukechambers5/eBrick) *(Live link coming soon)*
+  
+- **Football 4 Girls**  
+  A Python Flask web application that performs web scraping to collect sports player data, leveraging Beautiful Soup. It integrates SQLite to track and display trending players based on search metrics.
+  🔗 [GitHub Repo](https://github.com/lukechambers5/football4girls)
 
 - **Census Reconcilation Automation**  
   Python-based app that reconciles hospital Excel records with Tableau census data.  
   🔗 [GitHub Repo](https://github.com/lukechambers5/Census-Reconciliation)
-
-- **SFTP Automation**  
-  Python script that automates the cleaning and formatting of provider charge CSV files.
-  
-  🔗 [GitHub Repo](https://github.com/lukechambers5/SFTP_Automation)
 
 ---
 
@@ -63,5 +62,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lukechambers5/lukechambers5/main/assets/code.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/lukechambers5/lukechambers5/main/assets/code.gif" width="400" alt="Coding animation" />
 </p>
