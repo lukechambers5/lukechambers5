@@ -27,7 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" alt="AWS" />
 </p>
 
 ---
@@ -51,6 +50,7 @@
 
 - **SFTP Automation**  
   Python script that automates the cleaning and formatting of provider charge CSV files.
+  
   🔗 [GitHub Repo](https://github.com/lukechambers5/SFTP_Automation)
 
 ---
