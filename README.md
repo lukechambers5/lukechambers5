@@ -8,9 +8,9 @@
 ### About Me
 - Currently pursuing a Bachelor of Science in Computer Science at **Texas A&M University (Class of 2027)**
 - Intern at **Blitz Medical Billing**, developing automation solutions and data tools
-- Creator of **eBrick**, a comprehensive full-stack LEGO marketplace built with Next.js, Supabase, AWS, and Stripe
+- Founder of **eBrick**, a comprehensive full-stack LEGO marketplace built with Next.js, Supabase, AWS, and Stripe
 - Actively expanding expertise in **cloud automation**, **data engineering**, and **full-stack web development**
-- Contact: **lukechambers0217@gmail.com** | 📞 **469-430-4377**
+- Contact: **lukechambers0217@gmail.com** | **469-430-4377**
 
 ---
 
@@ -32,7 +32,7 @@
 ---
 
 ### Top Skills & Interests
-- Development of full-stack web applications using Next.js, Supabase, AWS Lambda, and Stripe
+- Development of full-stack web applications using Next.js, Supabase, and AWS Services
 - Backend automation utilizing Python, Power Automate, SFTP, and Office Scripts
 - Data visualization and ETL workflows with Tableau, Pandas, and SQL
 - Committed to addressing real-world challenges through clean, efficient, and maintainable code
@@ -44,10 +44,14 @@
    A full-stack LEGO marketplace built with Next.js, leveraging Supabase’s PostgreSQL backend, Stripe for payments, AWS Lambda for serverless functions, and deployed via Vercel.
   🔗 [GitHub Repo](https://github.com/lukechambers5/eBrick) *(Live link coming soon)*
   
-- **Football 4 Girls**  
-  A Python Flask web application that performs web scraping to collect sports player data, leveraging Beautiful Soup. It integrates SQLite to track and display trending players based on search metrics.
-  🔗 [GitHub Repo](https://github.com/lukechambers5/football4girls)
+- **CineScope**  
+  Full-stack movie watchlist and recommendation app using Java Spring Boot, DynamoDB, AWS Lambda, AWS EC2, AWS S3, and React. Features JWT auth, movie enrichment, and TMDb integration.
+  🔗 [GitHub Repo](https://github.com/lukechambers5/movie-watchlist)
 
+- **NBA Points Predictor**  
+  Flask app that predicts NBA player points using a trained Random Forest model
+  🔗 [GitHub Repo](https://github.com/lukechambers5/nba-points-ml)
+  
 - **Census Reconcilation Automation**  
   Python-based app that reconciles hospital Excel records with Tableau census data.  
   🔗 [GitHub Repo](https://github.com/lukechambers5/Census-Reconciliation)
