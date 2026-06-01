@@ -7,8 +7,7 @@
 
 ### About Me
 - Currently pursuing a Bachelor of Science in Computer Science at **Texas A&M University (Class of 2027)**
-- Intern at **Blitz Medical Billing**, developing automation solutions and data tools
-- Founder of **eBrick**, a comprehensive full-stack LEGO marketplace built with Next.js, Supabase, AWS, and Stripe
+- Intern at **Northrop Grumman**
 - Actively expanding expertise in **cloud automation**, **data engineering**, and **full-stack web development**
 - Contact: **lukechambers0217@gmail.com** | **469-430-4377**
 
