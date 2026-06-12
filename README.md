@@ -27,16 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
 </p>
 
----
-
-### Top Skills & Interests
-- Development of full-stack web applications using Next.js, Supabase, and AWS Services
-- Backend automation utilizing Python, Power Automate, SFTP, and Office Scripts
-- Data visualization and ETL workflows with Tableau, Pandas, and SQL
-- Committed to addressing real-world challenges through clean, efficient, and maintainable code
-
----
-
 ### 📂 Featured Projects
 - **eBrick**  
    A full-stack LEGO marketplace built with Next.js, leveraging Supabase’s PostgreSQL backend, Stripe for payments, AWS Lambda for serverless functions, and deployed via Vercel.
